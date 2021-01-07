@@ -1,0 +1,3 @@
+include ':FBLibrary'
+include ':app'
+rootProject.name = "Social_SDK"
